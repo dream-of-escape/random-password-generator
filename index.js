@@ -17,7 +17,3 @@ function generatePassword() {
     }
     return password    
 }
-
-window.increment = increment
-window.save = save
-window.reset = reset
